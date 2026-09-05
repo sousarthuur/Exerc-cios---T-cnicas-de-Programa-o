@@ -21,3 +21,15 @@ método exibirResumo(), além de terem atributos e métodos próprios.
 Conteudo e super() para reaproveitar código da superclasse.
 
 **Como executar:** abrir a pasta exercicio2heranca e rodar Main.java.
+
+## Exercício 3 - Polimorfismo (Calculadora)
+
+Classe Calculadora com três versões sobrecarregadas do método
+somar(): dois int, dois double e três int. O Java escolhe qual
+versão executar de acordo com a quantidade e o tipo dos argumentos
+passados na chamada.
+
+**Conceito utilizado:** Polimorfismo estático por sobrecarga —
+mesmo nome de método, listas de parâmetros diferentes.
+
+**Como executar:** abrir a pasta exercicio3polimorfismo e rodar Main.java.
